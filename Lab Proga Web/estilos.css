@@ -1,0 +1,34 @@
+h1 {
+    color: whitesmoke;
+    padding: 12px;
+}
+
+#back{
+    background-color: rgb(141, 141, 141);
+    margin: 15px;
+    border: 2px solid black;
+}
+
+#navig {
+    background-color: rgb(244, 186, 40);
+    padding: 5px 15px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#navig li{
+    list-style: none;
+    padding: 5px;
+    font-family:'Courier New';
+    font-size: 22px;
+}
+
+p{
+    margin-top: 8px;
+}
+
+.Conceptos{
+    font-size: 20px;
+    padding: 14px;
+    text-align: justify;
+}
